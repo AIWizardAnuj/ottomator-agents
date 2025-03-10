@@ -2,7 +2,7 @@
 
 This project demonstrates how to build an AI assistant with memory capabilities using the Mem0 library, OpenAI, and Supabase for authentication and vector storage.
 
-The Live Agent Studio integration verison referenced below also shows how to integrate Mem0 with a Pydantic AI agent.
+The Live Agent Studio integration version referenced below also shows how to integrate Mem0 with a Pydantic AI agent.
 
 ## Features
 
